@@ -1,0 +1,10 @@
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\bin\Debug\polygon.exe.config
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\bin\Debug\polygon.exe
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\bin\Debug\polygon.pdb
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.csprojResolveAssemblyReference.cache
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.Form1.resources
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.Properties.Resources.resources
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.csproj.GenerateResource.cache
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.csproj.CoreCompileInputs.cache
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.exe
+E:\大三上学期\计算机图形学基础\作业\作业3\polygon\polygon\obj\Debug\polygon.pdb
